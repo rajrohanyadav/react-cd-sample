@@ -1,1 +1,5 @@
-{}
+{
+  "projects": {
+    "default": "react-cd-sample-911be"
+  }
+}
